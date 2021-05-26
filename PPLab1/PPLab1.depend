@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1621435401 source:c:\users\usuario\desktop\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"menu.h"
+
+1621435469 c:\users\usuario\desktop\pplab1\notebook.h
+	"marca.h"
+	"tipo.h"
+
+1621426710 c:\users\usuario\desktop\pplab1\fecha.h
+
+1621435401 c:\users\usuario\desktop\pplab1\marca.h
+
+1621435401 c:\users\usuario\desktop\pplab1\tipo.h
+
+1621435401 c:\users\usuario\desktop\pplab1\servicio.h
+
+1621435495 c:\users\usuario\desktop\pplab1\trabajo.h
+	"fecha.h"
+
+1621435434 source:c:\users\usuario\desktop\pplab1\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"marca.h"
+
+1621434536 source:c:\users\usuario\desktop\pplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1621435401 source:c:\users\usuario\desktop\pplab1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1621435401 source:c:\users\usuario\desktop\pplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1621435401 c:\users\usuario\desktop\pplab1\menu.h
+
+1621435401 source:c:\users\usuario\desktop\pplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621435401 source:c:\users\usuario\desktop\pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1622040775 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1622040775 c:\users\usuario\desktop\disanto.francopplabi\pplab1\marca.h
+
+1622041224 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\notebook.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"marca.h"
+	"menu.h"
+
+1622041249 c:\users\usuario\desktop\disanto.francopplabi\pplab1\notebook.h
+	"marca.h"
+	"tipo.h"
+	"cliente.h"
+
+1621997615 c:\users\usuario\desktop\disanto.francopplabi\pplab1\tipo.h
+
+1621977963 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\servicio.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicio.h"
+
+1621997615 c:\users\usuario\desktop\disanto.francopplabi\pplab1\servicio.h
+
+1621435401 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\tipo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"tipo.h"
+
+1622032915 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"trabajo.h"
+	"notebook.h"
+
+1622033012 c:\users\usuario\desktop\disanto.francopplabi\pplab1\trabajo.h
+	"fecha.h"
+	"servicio.h"
+	"notebook.h"
+
+1621426710 c:\users\usuario\desktop\disanto.francopplabi\pplab1\fecha.h
+
+1622041224 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"notebook.h"
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"menu.h"
+	"harcodeo.h"
+	"cliente.h"
+
+1622040881 c:\users\usuario\desktop\disanto.francopplabi\pplab1\menu.h
+
+1622040881 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"menu.h"
+
+1622031899 c:\users\usuario\desktop\disanto.francopplabi\pplab1\datawarehouse.h
+	"fecha.h"
+
+1622031631 c:\users\usuario\desktop\disanto.francopplabi\pplab1\harcodeo.h
+	"cliente.h"
+
+1622032366 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\harcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"datawarehouse.h"
+	"notebook.h"
+	"fecha.h"
+	"marca.h"
+	"tipo.h"
+	"servicio.h"
+	"trabajo.h"
+	"cliente.h"
+
+1622040819 source:c:\users\usuario\desktop\disanto.francopplabi\pplab1\cliente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"cliente.h"
+
+1622040819 c:\users\usuario\desktop\disanto.francopplabi\pplab1\cliente.h
+
